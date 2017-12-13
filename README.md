@@ -1,21 +1,11 @@
 # oshomework
 
-> A Vue.js project
+> 操作系统的cpu调度算法
 
-## Build Setup
+- 完成SJF抢占优先算法
 
-``` bash
-# install dependencies
-npm install
+- 完成SJF非抢占算法
 
-# serve with hot reload at localhost:8080
-npm run dev
+- 完成时间片轮转算法
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+- 完成express的文件上传
